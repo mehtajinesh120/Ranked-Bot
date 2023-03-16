@@ -1,0 +1,8 @@
+polymart:
+    upload: { id: '24721', version: 1.1.0, type: RELEASE }
+    download: { id: '195922', time: 1678970832 }
+    resource: { id: '3636', title: 'Discord Ranked Bot', subtitle: '[FREE] The most advanced discord ranked bot originally made for ranked bedwars', price: '0.00', url: 'https://polymart.org/resource/discord-ranked-bot.3636' }
+injector:
+    version: 1
+    nonce: DE1wAvNmtqV2
+    token: ODk4Y2UxMDJmOTRh
